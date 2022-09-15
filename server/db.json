@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "catalogId": "BMR",
+      "catalogType": "Jeans",
+      "itemName": "Jam xd jean",
+      "priceNumber": "40",
+      "color": "Blue",
+      "Stock": "10",
+      "lastUpdated": "2022-05-06",
+      "id": "1"
+    },
+    {
+      "catalogId": "AAA",
+      "catalogType": "Shirt",
+      "itemName": "Arrow",
+      "priceNumber": "1000",
+      "color": "RED",
+      "Stock": "20",
+      "lastUpdated": "03/06/2022",
+      "id": "b1owlBY"
+    }
+  ]
+}
